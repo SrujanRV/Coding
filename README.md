@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SrujanRV/Coding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0088-merge-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SrujanRV/Coding/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/SrujanRV/Coding/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
