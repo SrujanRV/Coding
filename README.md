@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SrujanRV/Coding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0088-merge-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/SrujanRV/Coding/tree/master/0238-product-of-array-except-self) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SrujanRV/Coding/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -45,6 +46,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SrujanRV/Coding/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/SrujanRV/Coding/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
