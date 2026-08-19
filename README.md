@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SrujanRV/Coding/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/SrujanRV/Coding/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SrujanRV/Coding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrujanRV/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@
 | [0011-container-with-most-water](https://github.com/SrujanRV/Coding/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SrujanRV/Coding/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/SrujanRV/Coding/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -62,5 +64,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SrujanRV/Coding/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrujanRV/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SrujanRV/Coding/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SrujanRV/Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
