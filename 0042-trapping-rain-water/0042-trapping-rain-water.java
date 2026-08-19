@@ -15,9 +15,9 @@ class Solution {
         }
 
         for(int k =0;k<n; k++){
-            int [] trappedwater = new int[n];
-            trappedwater[k] = Math.min(left[k], right[k]);
-            totalwater += trappedwater[k] - height[k]; 
+            
+            int trappedwater = Math.min(left[k], right[k]);
+            totalwater += trappedwater - height[k]; 
         }
         return totalwater;
 
