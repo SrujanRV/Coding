@@ -19,6 +19,7 @@
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SrujanRV/Coding/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/SrujanRV/Coding/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/SrujanRV/Coding/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SrujanRV/Coding/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
