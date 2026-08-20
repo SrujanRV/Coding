@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SrujanRV/Coding/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SrujanRV/Coding/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrujanRV/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/SrujanRV/Coding/tree/master/0238-product-of-array-except-self) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SrujanRV/Coding/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SrujanRV/Coding/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -79,6 +81,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/SrujanRV/Coding/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
 ## Simulation
