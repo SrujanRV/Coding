@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/SrujanRV/Coding/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SrujanRV/Coding/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/SrujanRV/Coding/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SrujanRV/Coding/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SrujanRV/Coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/SrujanRV/Coding/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
@@ -89,5 +91,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SrujanRV/Coding/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
