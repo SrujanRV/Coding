@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SrujanRV/Coding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SrujanRV/Coding/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SrujanRV/Coding/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SrujanRV/Coding/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SrujanRV/Coding/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SrujanRV/Coding/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SrujanRV/Coding/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SrujanRV/Coding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
