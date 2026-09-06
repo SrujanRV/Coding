@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/SrujanRV/Coding/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SrujanRV/Coding/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/SrujanRV/Coding/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -39,6 +40,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SrujanRV/Coding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SrujanRV/Coding/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/SrujanRV/Coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SrujanRV/Coding/tree/master/0344-reverse-string) |
 ## Two Pointers
 |  |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/SrujanRV/Coding/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
