@@ -48,6 +48,7 @@
 | [0771-jewels-and-stones](https://github.com/SrujanRV/Coding/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/SrujanRV/Coding/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/SrujanRV/Coding/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/SrujanRV/Coding/tree/master/1678-goal-parser-interpretation) |
 ## Two Pointers
 |  |
 | ------- |
