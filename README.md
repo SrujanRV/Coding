@@ -21,6 +21,7 @@
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SrujanRV/Coding/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/SrujanRV/Coding/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/SrujanRV/Coding/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 | [0344-reverse-string](https://github.com/SrujanRV/Coding/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/SrujanRV/Coding/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/SrujanRV/Coding/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/SrujanRV/Coding/tree/master/1528-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
