@@ -45,6 +45,7 @@
 | [0125-valid-palindrome](https://github.com/SrujanRV/Coding/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SrujanRV/Coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SrujanRV/Coding/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/SrujanRV/Coding/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SrujanRV/Coding/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/SrujanRV/Coding/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/SrujanRV/Coding/tree/master/1528-shuffle-string) |
