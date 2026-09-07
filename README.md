@@ -53,6 +53,7 @@
 | [1108-defanging-an-ip-address](https://github.com/SrujanRV/Coding/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/SrujanRV/Coding/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/SrujanRV/Coding/tree/master/1678-goal-parser-interpretation) |
+| [2129-capitalize-the-title](https://github.com/SrujanRV/Coding/tree/master/2129-capitalize-the-title) |
 ## Two Pointers
 |  |
 | ------- |
