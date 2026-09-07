@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/SrujanRV/Coding/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/SrujanRV/Coding/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SrujanRV/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/SrujanRV/Coding/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -45,6 +46,7 @@
 | [0125-valid-palindrome](https://github.com/SrujanRV/Coding/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SrujanRV/Coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SrujanRV/Coding/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SrujanRV/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SrujanRV/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/SrujanRV/Coding/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SrujanRV/Coding/tree/master/0771-jewels-and-stones) |
@@ -80,6 +82,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SrujanRV/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
@@ -115,4 +118,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SrujanRV/Coding/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SrujanRV/Coding/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
