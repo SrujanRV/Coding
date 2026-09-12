@@ -23,6 +23,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/SrujanRV/Coding/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/SrujanRV/Coding/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/SrujanRV/Coding/tree/master/1572-matrix-diagonal-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SrujanRV/Coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [1108-defanging-an-ip-address](https://github.com/SrujanRV/Coding/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/SrujanRV/Coding/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/SrujanRV/Coding/tree/master/1678-goal-parser-interpretation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SrujanRV/Coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/SrujanRV/Coding/tree/master/2129-capitalize-the-title) |
 ## Two Pointers
 |  |
