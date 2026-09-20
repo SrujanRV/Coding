@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/SrujanRV/Coding/tree/master/0278-first-bad-version) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SrujanRV/Coding/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SrujanRV/Coding/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
