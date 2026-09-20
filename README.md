@@ -58,6 +58,7 @@
 | [1678-goal-parser-interpretation](https://github.com/SrujanRV/Coding/tree/master/1678-goal-parser-interpretation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SrujanRV/Coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/SrujanRV/Coding/tree/master/2129-capitalize-the-title) |
+| [3498-reverse-degree-of-a-string](https://github.com/SrujanRV/Coding/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SrujanRV/Coding/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/SrujanRV/Coding/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
