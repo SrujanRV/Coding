@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrujanRV/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/SrujanRV/Coding/tree/master/0238-product-of-array-except-self) |
 | [0766-toeplitz-matrix](https://github.com/SrujanRV/Coding/tree/master/0766-toeplitz-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SrujanRV/Coding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/SrujanRV/Coding/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SrujanRV/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SrujanRV/Coding/tree/master/1480-running-sum-of-1d-array) |
@@ -85,6 +86,7 @@
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/SrujanRV/Coding/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SrujanRV/Coding/tree/master/0374-guess-number-higher-or-lower) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SrujanRV/Coding/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,4 +155,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/SrujanRV/Coding/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SrujanRV/Coding/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SrujanRV/Coding/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
