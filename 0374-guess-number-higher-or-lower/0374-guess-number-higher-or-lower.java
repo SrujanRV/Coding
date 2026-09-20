@@ -25,6 +25,6 @@ public class Solution extends GuessGame {
                 left = mid+1;
             }
         }
-        return left;
+        return -1;
     }
 }
