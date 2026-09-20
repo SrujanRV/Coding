@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SrujanRV/Coding/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SrujanRV/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SrujanRV/Coding/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SrujanRV/Coding/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SrujanRV/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/SrujanRV/Coding/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SrujanRV/Coding/tree/master/0374-guess-number-higher-or-lower) |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SrujanRV/Coding/tree/master/0852-peak-index-in-a-mountain-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SrujanRV/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
