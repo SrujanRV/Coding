@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SrujanRV/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/SrujanRV/Coding/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrujanRV/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/SrujanRV/Coding/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/SrujanRV/Coding/tree/master/0238-product-of-array-except-self) |
 | [0766-toeplitz-matrix](https://github.com/SrujanRV/Coding/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SrujanRV/Coding/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SrujanRV/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SrujanRV/Coding/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/SrujanRV/Coding/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/SrujanRV/Coding/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SrujanRV/Coding/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SrujanRV/Coding/tree/master/0852-peak-index-in-a-mountain-array) |
