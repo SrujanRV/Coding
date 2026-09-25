@@ -27,6 +27,7 @@
 | [1528-shuffle-string](https://github.com/SrujanRV/Coding/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/SrujanRV/Coding/tree/master/1572-matrix-diagonal-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SrujanRV/Coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrujanRV/Coding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/SrujanRV/Coding/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SrujanRV/Coding/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/SrujanRV/Coding/tree/master/0509-fibonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrujanRV/Coding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
